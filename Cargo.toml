@@ -1,0 +1,10 @@
+[package]
+name = "algebrust"
+version = "0.1.0"
+edition = "2024"
+authors = ["Elegant Script"]
+license = "MIT"
+description = "A lightweight Rust library for work with matrixes and vectors better and faster!"
+readme = "README.md"
+
+[dependencies]
