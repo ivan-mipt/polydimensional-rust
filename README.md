@@ -1,15 +1,15 @@
-# Algebrust
-Lightweight library for Rust created to make work with **matrixes** and **vectors** better and faster!
+# Polydimensional Rust
+Lightweight library for Rust created to make work with **matrixes** and **vectors** in 2D, 3D and 4D better and faster!
 
 ## Using
 Just add this to your `Cargo.toml`:
 ```toml
 [dependencies]
-algebrust = "0.1"
+polydimensional_rust = "0.1"
 ```
 So, now you can do this in your `main.rs` for example:
 ```rust
-use algebrust::linear_algebra::{Vector3, Matrix4, Matrix3, Vector2};
+use polydimensional_rust::linear_algebra::{Vector3, Matrix4, Matrix3, Vector2};
 
 fn main() {
     let vector_product = Vector3::new(3.0, 5.0, 6.0)
@@ -25,4 +25,5 @@ fn main() {
 
 ## About feedback
 Please, when you want to leave feedback, give me a star - I will be very grateful to you!
+
 
