@@ -1,5 +1,6 @@
 # Polydimensional Rust
 Lightweight library for Rust created to make work with **matrixes** and **vectors** in 2D, 3D and 4D better and faster!
+![Downloads](https://img.shields.io/crates/d/polydimensional_rust)
 
 ## Using
 Just add this to your `Cargo.toml`:
@@ -25,5 +26,6 @@ fn main() {
 
 ## About feedback
 Please, when you want to leave feedback, give me a star - I will be very grateful to you!
+
 
 
